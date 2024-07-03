@@ -12,16 +12,7 @@ header{
 
 }
 
-section{
-display: flex;
-align-items: center;
-background: color white; 
-margin: 10px 0;
-padding: 10px 20px;
-
-}
-
-div {
-
-  padding: 50px;
+.principal{
+display: grid;
+grid-template-columns: 30% 70%;
 }
