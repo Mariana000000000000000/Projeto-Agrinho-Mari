@@ -27,4 +27,9 @@ grid-template-columns: 30% 70%;
 
 .hosp, .perfil, .conf{
   display: flex;
+  align-items: center;
+}
+
+ul li{
+  list-style: none;
 }
