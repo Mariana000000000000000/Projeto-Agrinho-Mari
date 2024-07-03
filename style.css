@@ -37,3 +37,7 @@ a{
   color: black;
   text-decoration: none;
 }
+
+li{
+  padding-top: 12px;
+}
