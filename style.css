@@ -23,6 +23,7 @@ grid-template-columns: 30% 70%;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
+  border-right: 1px solid black;
 }
 
 .hosp, .perfil, .conf{
@@ -40,4 +41,8 @@ a{
 
 li{
   padding-top: 12px;
+}
+
+.hosp{
+  border-bottom: 1px solid black;
 }
