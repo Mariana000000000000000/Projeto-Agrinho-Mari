@@ -16,3 +16,14 @@ header{
 display: grid;
 grid-template-columns: 30% 70%;
 }
+
+.menu{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.hosp, .perfil, .conf{
+  display: flex;
+}
