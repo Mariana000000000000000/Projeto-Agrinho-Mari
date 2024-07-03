@@ -33,3 +33,6 @@ grid-template-columns: 30% 70%;
 ul li{
   list-style: none;
 }
+a{
+  color: black;
+}
