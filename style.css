@@ -9,11 +9,9 @@ header{
   align-items: center;
   justify-content: space-between;
   padding: 10px;
-@font-face {
-  font-family: inter;
-  src: url();
+font-family: Inter
 }
-}
+
 
 .principal{
 display: grid;
