@@ -45,9 +45,9 @@ a{
 
 li{
   padding-top: 12px;
-  font-size: font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;;
 }
 
 .hosp, .perfil{
   border-bottom: 1px solid black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
